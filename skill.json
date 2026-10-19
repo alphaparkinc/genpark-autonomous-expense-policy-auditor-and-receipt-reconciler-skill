@@ -1,0 +1,8 @@
+{
+  "name": "genpark-autonomous-expense-policy-auditor-and-receipt-reconciler-skill",
+  "version": "1.0.0",
+  "description": "Autonomous corporate expense auditor, receipt-to-ledger reconciler, and multi-tier spend policy compliance engine",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
